@@ -143,17 +143,8 @@
     flex-direction: column;
     padding: 80px 0 0;
   }
-  .content a:hover {
-    color: #fff;
-    background: rgba(255,255,255,0.3);
-  }
   
-  section {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    padding: 80px 0 0;
-  }section h2 {
+  section h2 {
     font-size: 2rem;
   }
   
@@ -368,18 +359,7 @@
       flex-direction: column;
     }
 
-    .homepage .content .text {
-      font-size: 17px;
-    }
-  
-    .content a {
-      font-size: 17px;
-      padding: 9px 20px;
-    }
-  
-    .contact .row {
-      flex-direction: column;
-    }
+    
   .contact .row .col {
       width: 100%;
     }
